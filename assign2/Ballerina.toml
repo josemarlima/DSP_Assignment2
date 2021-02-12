@@ -1,0 +1,7 @@
+[package]
+org = "us"
+name = "assign2"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
